@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- NovaCorp Brand Colors -->
+    <color name="nova_primary">#1A237E</color>       <!-- Deep Navy Blue -->
+    <color name="nova_primary_dark">#0D1257</color>  <!-- Darker Navy -->
+    <color name="nova_accent">#FF6F00</color>        <!-- Orange Accent -->
+    <color name="nova_background">#F5F6FA</color>    <!-- Light Gray BG -->
+    <color name="nova_surface">#FFFFFF</color>       <!-- White Cards -->
+    <color name="nova_text_primary">#212121</color>  <!-- Dark Text -->
+    <color name="nova_text_secondary">#757575</color><!-- Gray Text -->
+    <color name="nova_success">#2E7D32</color>       <!-- Green -->
+    <color name="nova_warning">#F57F17</color>       <!-- Yellow -->
+    <color name="nova_danger">#C62828</color>        <!-- Red -->
+    <color name="white">#FFFFFF</color>
 </resources>

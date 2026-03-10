@@ -1,9 +1,16 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.NovaCorpTasks" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
-    </style>
+        <item name="colorPrimary">@color/nova_primary</item>
+        <item name="colorPrimaryVariant">@color/nova_primary_dark</item>
+        <item name="colorSecondary">@color/nova_accent</item>
 
-    <style name="Theme.NovaCorpTasks" parent="Base.Theme.NovaCorpTasks" />
+        <item name="android:windowBackground">@color/nova_background</item>
+        <item name="colorSurface">@color/nova_surface</item>
+        <item name="colorError">@color/nova_danger</item>
+
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSurface">@color/nova_text_primary</item>
+        <item name="colorOnBackground">@color/nova_text_primary</item>
+    </style>
 </resources>
