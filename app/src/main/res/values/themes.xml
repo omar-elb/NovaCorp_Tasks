@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.NovaCorpTasks" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.NovaCorpTasks" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="colorPrimary">@color/nova_primary</item>
         <item name="colorPrimaryVariant">@color/nova_primary_dark</item>
         <item name="colorSecondary">@color/nova_accent</item>
@@ -13,4 +13,6 @@
         <item name="colorOnSurface">@color/nova_text_primary</item>
         <item name="colorOnBackground">@color/nova_text_primary</item>
     </style>
+
+    <style name="Theme.NovaCorpTasks" parent="Base.Theme.NovaCorpTasks" />
 </resources>

@@ -2,6 +2,7 @@
     <!-- App -->
     <string name="app_name">NovaCorp Tasks</string>
     <string name="company_name">NovaCorp</string>
+    <string name="novaCorp_internal_v">NovaCorp Internal v1.0.0</string>
 
     <!-- Login -->
     <string name="login_title">Welcome Back</string>
@@ -42,4 +43,7 @@
     <string name="error_invalid_email">Please enter a valid email</string>
     <string name="error_empty_password">Please enter your password</string>
     <string name="error_short_password">Password must be at least 6 characters</string>
+
+    <!-- _________________ -->
+    <string name="todo">TODO</string>
 </resources>
